@@ -31,7 +31,7 @@ I am an undergraduate student in the School of Mathematical Sciences at Nankai U
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/weight_matrix.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/weight_matrix.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Art and Science of Quantizing Large-Scale Models: A Comprehensive Overview](https://arxiv.org/pdf/2409.11650)
@@ -59,6 +59,9 @@ BioSonicGuard: Avian Vocal Recognition using Convolutional Neural Networks
 -	Successfully applied for **software copyright** for the developed bird vocal recognition system.
 -	The project was showcased at **the China International Fair for Trade in Services 2024** in collaboration with Deep Nature Technology Company, and received the silver award of “The 11th Tianjin Youth Entrepreneurship Competition” as well as the silver award of the 2024 "Challenge Cup" Bank of China Tianjin University Student Entrepreneurship Plan Competition.
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> MCM</div><img src='images/the Mind Map of Our Work.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -72,6 +75,8 @@ Chenyang Jia, **Xiyan Liang**, Jiashuo Liu
 -	Analyzed the accuracy of the TPP model, achieving up to 65% accuracy and robustness against interference, and validated model universality through testing with other match data.
 -	Formulated the Momentum Scoring Rule by scientifically quantified momentum to portray players' performance based on data analysis in the MDV Model; quantified turning points using momentum scores in the TTP Model.
 
+</div>
+</div>
 
 <!--- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
 
