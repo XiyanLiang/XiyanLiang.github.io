@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student in the School of Mathematical Sciences at Nankai University (Class of 2022), majoring in Mathematical Sciences. My research interests lie in discrete Structures, large-scale model quantization, data stream algorithms, and machine learning applications. I have participated in projects such as PSSketch and avian vocal recognition, gaining a solid foundation and practical experience. I humbly look forward to learning and collaborating with others in related fields.
+I am an undergraduate student in the School of Mathematical Sciences at Nankai University (Class of 2022), majoring in Mathematical Sciences. My research interests lie in discrete structures, large-scale model quantization, data stream algorithms, and machine learning applications. I have participated in projects such as PSSketch and avian vocal recognition, gaining a solid foundation and practical experience. I humbly look forward to learning and collaborating with others in related fields.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=l5OllR0AAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=l5OllR0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
