@@ -38,7 +38,7 @@ I am an undergraduate student in the School of Mathematical Sciences at Nankai U
 
 Yanshu Wang, Tong Yang, **Xiyan Liang**, Guoan Wang, Hanning Lu, Xu Zhe, Yaoming Li, Li Weitao
 
-[**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=l5OllR0AAAAJ&citation_for_view=l5OllR0AAAAJ:u5HHmVD_uO8C)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=l5OllR0AAAAJ&citation_for_view=l5OllR0AAAAJ:u5HHmVD_uO8C]) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - This paper provides a comprehensive overview of the principles, challenges, and methodologies associated with quantizing large-scale neural network models. As neural networks have evolved towards larger and more complex architectures to address increasingly sophisticated tasks, the computational and energy costs have escalated significantly. We explore the necessity and impact of model size growth, highlighting the performance benefits as well as the computational challenges and environmental considerations. The core focus is on model quantization as a fundamental approach to mitigate these challenges by reducing model size and improving efficiency without substantially compromising accuracy. We delve into various quantization techniques, including both post-training quantization (PTQ) and quantization-aware training (QAT), and analyze several state-of-the-art algorithms such as LLM-QAT, PEQA(L4Q), ZeroQuant, SmoothQuant, and others. Through comparative analysis, we examine how these methods address issues like outliers, importance weighting, and activation quantization, ultimately contributing to more sustainable and accessible deployment of large-scale models. 
 </div>
@@ -53,7 +53,7 @@ BioSonicGuard: Avian Vocal Recognition using Convolutional Neural Networks
 
 **Xiyan Liang**, Qianghui Guo, Yuanzhi Shao, Xingyuan Qing, Yiyang Liu, Jiahe Guo
 
-[**Project**](Nankai University - Joint Research Center for Intelligent Ecological Mathematics and Smart Nature Conservation)
+**Project** | (Nankai University - Joint Research Center for Intelligent Ecological Mathematics and Smart Nature Conservation)
 
 -	Carried out the research on identifying birds' vocals with a machine learning-based approach for individual recognition to extract features from the bird's vocalization spectra based on convolutional neural networks (CNN). Expect to implement a two-tiered CNN model to precisely monitor bird populations and assess and protect the health and diversity of ecosystems.
 -	Successfully applied for **software copyright** for the developed bird vocal recognition system.
@@ -69,7 +69,7 @@ Tennis Momentum Analysis and Prediction Modelling
 
 Chenyang Jia, **Xiyan Liang**, Jiashuo Liu
 
-[**Project**](COMAP Mathematical Contest in Modeling)
+**Project** | (COMAP Mathematical Contest in Modeling)
 
 -	Defined "momentum" in tennis games to enhance player preparation and match advice based on the established models, including the Momentum Definition and Visualization (MDV) Model, Randomness Test Model, and Turning Point Prediction (TPP) Model.
 -	Analyzed the accuracy of the TPP model, achieving up to 65% accuracy and robustness against interference, and validated model universality through testing with other match data.
