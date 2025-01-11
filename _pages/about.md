@@ -46,7 +46,7 @@ Yanshu Wang, Tong Yang, **Xiyan Liang**, Guoan Wang, Hanning Lu, Xu Zhe, Yaoming
 
 # 💻 Academic Practice
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Undergraduate Innovative Research Programs at Nankai University</div><img src='images/预期成果.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Undergraduate Innovative Research Programs at Nankai University</div><img src='images/预期成果 Medium.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 BioSonicGuard: Avian Vocal Recognition using Convolutional Neural Networks
