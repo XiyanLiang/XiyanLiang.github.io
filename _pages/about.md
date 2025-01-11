@@ -26,7 +26,7 @@ I am an undergraduate student in the School of Mathematical Sciences at Nankai U
 - *2022.09*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
-# 📖 Educations Background
+# 📖 Educational Background
 - *2022.09 - 2026.07 (expected)*, Nankai University, Mathematical Sciences.
 
 # 📝 Publications 
