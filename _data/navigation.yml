@@ -4,7 +4,7 @@ main:
     url: "/#about-me"
 
   - title: "Educational Background"
-    url: "/#-Educational-Background"
+    url: "/#-educational-background"
 
   #- title: "News"
   #  url: "/#-news"
@@ -13,7 +13,7 @@ main:
     url: "/#-publications"
 
   - title: "Academic Practice"
-    url: "/#-Academic-Practice"
+    url: "/#-academic-practice"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
