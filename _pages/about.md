@@ -97,4 +97,4 @@ Chenyang Jia, **Xiyan Liang**, Jiashuo Liu
 
 # 💻 Internships
 - *2024.01 - 2024.02*, [Global Education, Academics and Research Skills Program (GEARS), NCSU]([https://gti.ncsu.edu])
-- *2025.07 - 2025.10*, [Matics]([https://globalink.mitacs.ca/#/]), Canada.
+- *2025.07 - 2025.10*, [Mitacs]([https://globalink.mitacs.ca/#/]), Canada.
