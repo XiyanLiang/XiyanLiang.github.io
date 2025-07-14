@@ -31,7 +31,7 @@ I am an undergraduate student in the School of Mathematical Sciences at Nankai U
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGKDD</div><img src='images/overall.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGKDD</div><img src='images/overall.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PSSketch: Finding Persistent and Sparse Flow with High Accuracy and Efficiency](https://ui.adsabs.harvard.edu/abs/2025arXiv250504892W/abstract)
@@ -42,6 +42,21 @@ Jiayao Wang, Qilong Shi, **Xiyan Liang**, Han Wang, Wenjun Li, Ziling Wei, Weizh
 <!--[**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=l5OllR0AAAAJ&citation_for_view=l5OllR0AAAAJ:u5HHmVD_uO8C]) <strong><span class='show_paper_citations' data='l5OllR0AAAAJ:u5HHmVD_uO8C'></span></strong>-->
 
 - Finding persistent sparse (PS) flow is critical to early warning of many threats. Previous works have predominantly focused on either heavy or persistent flows, with limited attention given to PS flows. Although some recent studies pay attention to PS flows, they struggle to establish an objective criterion due to insufficient data-driven observations, resulting in reduced accuracy. In this paper, we define a new criterion "anomaly boundary" to distinguish PS flows from regular flows. Specifically, a flow whose persistence exceeds a threshold will be protected, while a protected flow with a density lower than a threshold is reported as a PS flow. We then introduce PSSketch, a high-precision layered sketch to find PS flows. PSSketch employs variable-length bitwise counters, where the first layer tracks the frequency and persistence of all flows, and the second layer protects potential PS flows and records overflow counts from the first layer. Some optimizations have also been implemented to reduce memory consumption further and improve accuracy. The experiments show that PSSketch reduces memory consumption by an order of magnitude compared to the strawman solution combined with existing work. Compared with SOTA solutions for finding PS flows, it outperforms up to 2.94x in F1 score and reduces ARE by 1-2 orders of magnitude. Meanwhile, PSSketch achieves a higher throughput than these solutions.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/weight_matrix.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Art and science of quantizing large-scale models: A comprehensive overview](https://arxiv.org/pdf/2409.11650)
+
+Yanshu Wang, Tong Yang, **Xiyan Liang**, Guoan Wang, Hanning Lu, Xu Zhe, Yaoming Li, Li Weitao
+
+**Abstract**
+<!--[**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=l5OllR0AAAAJ&citation_for_view=l5OllR0AAAAJ:u5HHmVD_uO8C]) <strong><span class='show_paper_citations' data='l5OllR0AAAAJ:u5HHmVD_uO8C'></span></strong>-->
+
+- This paper provides a comprehensive overview of the principles, challenges, and methodologies associated with quantizing large-scale neural network models. As neural networks have evolved towards larger and more complex architectures to address increasingly sophisticated tasks, the computational and energy costs have escalated significantly. We explore the necessity and impact of model size growth, highlighting the performance benefits as well as the computational challenges and environmental considerations. The core focus is on model quantization as a fundamental approach to mitigate these challenges by reducing model size and improving efficiency without substantially compromising accuracy. We delve into various quantization techniques, including both post-training quantization (PTQ) and quantization-aware training (QAT), and analyze several state-of-the-art algorithms such as LLM-QAT, PEQA(L4Q), ZeroQuant, SmoothQuant, and others. Through comparative analysis, we examine how these methods address issues like outliers, importance weighting, and activation quantization, ultimately contributing to more sustainable and accessible deployment of large-scale models.
 
 </div>
 </div>
