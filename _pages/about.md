@@ -47,7 +47,7 @@ Jiayao Wang, Qilong Shi, **Xiyan Liang**, Han Wang, Wenjun Li, Ziling Wei, Weizh
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW</div><img src='images/datastructure.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW</div><img src='images/datastructure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [JitterSketch: Finding Jittery Flows in Network Streams](https://yangtonghome.github.io/uploads/JitterSketch_WWW26.pdf)
