@@ -47,6 +47,21 @@ Jiayao Wang, Qilong Shi, **Xiyan Liang**, Han Wang, Wenjun Li, Ziling Wei, Weizh
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW</div><img src='images/datastructure.pdf alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[JitterSketch: Finding Jittery Flows in Network Streams](https://yangtonghome.github.io/uploads/JitterSketch_WWW26.pdf)
+
+Zhongxian Liang, Qilong Shi, **Xiyan Liang**, Zihan Li, Wenjun Li, Tong Yang, Yangyang Wang, Mingwei Xu, Weizhe Zhang
+
+**Abstract**
+<!--[**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=l5OllR0AAAAJ&citation_for_view=l5OllR0AAAAJ:u5HHmVD_uO8C]) <strong><span class='show_paper_citations' data='l5OllR0AAAAJ:u5HHmVD_uO8C'></span></strong>-->
+
+- In the modern internet, with the proliferation of real-time applications such as online gaming and video conferencing, the timely detection of network jitter has become a critical task in network measurement. Network jitter is defined as the abrupt fluctuations in packet inter-arrival times within network flows, which severely degrade the Quality of Service for these applications. Traditional jitter detection methods primarily focus on macro-level end-to-end or hop-by-hop latency variations, neglecting the fine-grained jitter
+that occurs within specific flows. In this paper, we present JitterSketch, the first sketch-based algorithm specifically designed for detecting jittery flows. JitterSketch employs a novel three-stage structure to efficiently filter out infrequent and stable flows, thereby identifying and reporting the jittery flows that have the most significant impact on network quality. Extensive experiments demonstrate that JitterSketch achieves an improvement of up to 50 percentage points in both recall and precision rates compared to baseline solutions, while maintaining high processing throughput. Furthermore, we deployed JitterSketch in a QoS simulation system, where it yielded significant improvements in QoS.
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/weight_matrix.png' alt="sym" width="100%"></div></div>
