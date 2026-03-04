@@ -27,7 +27,8 @@ I am an undergraduate student in the School of Mathematical Sciences at Nankai U
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Educational Background
-- *2022.09 - 2026.07 (expected)*, Nankai University, Mathematical Sciences.
+- *2022.09 - 2026.07 (expected)*, Nankai University, B.Sc. in Mathematics and Applied Mathematics.
+- *2026.09 - 2029.07 (expected)*, Nankai University, M.Phil. in Computational Mathematics.
 
 # 📝 Publications 
 
@@ -45,6 +46,8 @@ Jiayao Wang, Qilong Shi, **Xiyan Liang**, Han Wang, Wenjun Li, Ziling Wei, Weizh
 
 </div>
 </div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/weight_matrix.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
