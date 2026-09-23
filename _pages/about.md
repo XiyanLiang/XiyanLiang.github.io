@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student in the School of Mathematical Sciences at Nankai University (Class of 2022), majoring in Mathematical Sciences. My research interests lie in discrete structures, large-scale model quantization, data stream algorithms, and machine learning applications. I have participated in projects such as PSSketch and avian vocal recognition, gaining a solid foundation and practical experience. I humbly look forward to learning and collaborating with others in related fields.
+I am a first-year master's student in Computational Mathematics at the School of Mathematical Sciences, Nankai University. My current research focuses on image processing, particularly image registration. Previously, I gained research experience in large-scale model quantization and sketch-based algorithms for data streams. I humbly look forward to learning and collaborating with others in related fields.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=l5OllR0AAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=l5OllR0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
@@ -27,8 +27,8 @@ I am an undergraduate student in the School of Mathematical Sciences at Nankai U
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Educational Background
-- *2022.09 - 2026.07 (expected)*, Nankai University, B.Sc. in Mathematics and Applied Mathematics.
-- *2026.09 - 2029.07 (expected)*, Nankai University, M.Phil. in Computational Mathematics.
+- *2022.09 - 2026.07 *, Nankai University, B.Sc. in Mathematics and Applied Mathematics.
+- *2026.09 - 2029.07 (expected)*, Nankai University, M.Sc. in Computational Mathematics (academic track).
 
 # 📝 Publications 
 
@@ -50,7 +50,7 @@ Jiayao Wang, Qilong Shi, **Xiyan Liang**, Han Wang, Wenjun Li, Ziling Wei, Weizh
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW</div><img src='images/datastructure.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[JitterSketch: Finding Jittery Flows in Network Streams](https://yangtonghome.github.io/uploads/JitterSketch_WWW26.pdf)
+[JitterSketch: Finding Jittery Flows in Network Streams](https://dl.acm.org/doi/abs/10.1145/3774904.3792328)
 
 Zhongxian Liang, Qilong Shi, **Xiyan Liang**, Zihan Li, Wenjun Li, Tong Yang, Yangyang Wang, Mingwei Xu, Weizhe Zhang
 
